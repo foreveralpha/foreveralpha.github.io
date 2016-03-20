@@ -39,6 +39,8 @@ docpadConfig = {
 
 			# Styles
 			styles: [
+				"//fonts.googleapis.com/css?family=Poppins:400,700,600,500"
+				"//fonts.googleapis.com/css?family=Dosis:400,500,600,700,800,300"
 				"/styles/twitter-bootstrap.css"
 				"/styles/style.css"
 			]
@@ -49,6 +51,7 @@ docpadConfig = {
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
 				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
 				"/scripts/script.js"
+				"/scripts/alpha.js"
 			]
 
 

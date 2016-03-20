@@ -32,12 +32,9 @@
 	<!-- Styles -->
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 </head>
-<body class="default">
-	<!-- Menu -->
-	<div>
-		<img id="logo" class="pull-right" src="/images/foreveralpha.png">
-	</div>
+<body class="landing">
 
+	<img id="logo" class="pull-right" src="/images/foreveralpha.png">
 
 	<!-- Content -->
 	<div class="container">
@@ -48,7 +45,6 @@
 
 		<!-- Footer -->
 		<footer>
-			&nbsp;
 		</footer>
 	</div><!-- /container -->
 

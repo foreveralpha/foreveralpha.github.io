@@ -1,13 +1,55 @@
-html, body {
-	background: #000 !important;
+.default {
+	background: #000;
+}
+
+.landing, .navbar {
+	background: #000;
+}
+
+.navbar ul {
+	position: absolute;
+	bottom: 0;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	font-weight: 500;
+	font-size: 16px;
+	text-transform: uppercase;
 }
 
 .content {
+	width: 60%;
+	margin-top: 250px;
 	font-size: 18px;
 	font-weight: 700;
 	color: #979bb3;
 }
 
-#logo {
+.default #logo {
+	position: fixed;
+	right: 0;
+}
+
+#portal {
+	width: 100vw;
 	display: block;
+	margin-top: 80vh;
+	margin-right: auto;
+	margin-left: auto;
+	img {
+		height: 35px;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	margin-top: 35px;
+	margin-bottom: 5px;
+}
+
+p {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 300;
 }
