@@ -33,11 +33,12 @@
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 </head>
 <body class="default">
-	<!-- Menu -->
+
+	<div id="the-fade" class="gradient">
+	</div>
 	<div>
 		<img id="logo" class="pull-right" src="/images/foreveralpha.png">
 	</div>
-
 
 	<!-- Content -->
 	<div class="container">

@@ -1,5 +1,6 @@
 .default {
 	background: #000;
+	width: 100%;
 }
 
 .landing, .navbar {
@@ -28,6 +29,11 @@
 .default #logo {
 	position: fixed;
 	right: 0;
+	z-index: 9001;
+}
+
+#logo {
+	max-width: 80%;
 }
 
 #portal {
@@ -37,8 +43,16 @@
 	margin-right: auto;
 	margin-left: auto;
 	img {
+		padding-left: 50px;
 		height: 35px;
 	}
+}
+
+#the-fade {
+	width: 100vw;
+	height: 300px;
+	position: fixed;
+	z-index: 9000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -53,3 +67,35 @@ p {
 	font-family: 'Dosis', sans-serif;
 	font-weight: 300;
 }
+
+a {
+	color: #979bb3;
+	font-weight: 500;
+	&:hover {
+		color: #943a13;
+	}
+}
+
+.gradient{
+        /* webkit example */
+        background-image: -webkit-gradient(
+          linear, center top, center bottom, from(rgba(0,0,0, 1.0)),
+          to(rgba(0,0,0, 0))
+        );
+
+        /* mozilla example - FF3.6+ */
+        background-image: -moz-linear-gradient(
+          top center,
+          rgba(0,0,0, 1.0) 20%, rgba(0,0,0, 0) 95%
+        );
+
+        /* IE 5.5 - 7 */
+        filter: progid:DXImageTransform.Microsoft.gradient(
+          startColor=0, endColorStr=#FFFFFF
+        );
+
+        /* IE8 uses -ms-filter for whatever reason... */
+        -ms-filter: progid:DXImageTransform.Microsoft.gradient(
+          startColor=0, endColoStr=#FFFFFF
+        );
+    }
