@@ -22,11 +22,7 @@
 	<meta name="viewport" content="width=device-width" />
 
 	<!-- Icons -->
-		<link rel="shortcut icon" href="images/icons/favicon.ico">
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+		<link rel="shortcut icon" href="images/favicon.png">
 
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
@@ -37,7 +33,7 @@
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 </head>
 <body>
-	<!-- Menu -->
+	<!-- Menu
 	<div class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header">
@@ -62,8 +58,11 @@
 						</li>
 					<% end %>
 				</ul>
-			</div><!--/.navbar-collapse -->
+			</div> /.navbar-collapse
 		</div>
+	</div>-->
+	<div>
+		<img id="logo" class="pull-right" src="/images/foreveralpha.png">
 	</div>
 
 	<!-- Content -->
@@ -75,10 +74,6 @@
 
 		<!-- Footer -->
 		<footer>
-			<p class="pull-left">&copy; Company <%- (new Date()).getFullYear() %></p>
-			<p class="pull-right">
-				This website was last updated at <%= @site.date.toISOString() %>
-			</p>
 		</footer>
 	</div><!-- /container -->
 

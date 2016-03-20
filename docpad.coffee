@@ -12,32 +12,30 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://foreveralpha.club"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Forever Alpha"
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				 Forever Alpha hosts events in a public biohacklab focused on synthetic biology, biometric camouflage, and the culture.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				biohack, diy, synthetic biology, events, catering, biolab, biology, diy bio, diy biology, parties, berlin
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Forever Alpha"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "join@foreveralpha.club"
 
 			# Styles
 			styles: [
@@ -96,6 +94,9 @@ docpadConfig = {
 	# Plugins
 
 	plugins:
+	    ghpages:
+	        deployRemote: 'origin'
+	        deployBranch: 'master'
 		downloader:
 			downloads: [
 				{
