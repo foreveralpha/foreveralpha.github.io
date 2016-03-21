@@ -14,10 +14,11 @@ Schillerpalais
 [Email](mailto:join@foreveralpha.club)  
 [Twitter](//twitter.com/@foreveralphalab)  
 [Github](//github.com/foreveralpha)  
+[Slack](//foreveralpha.slack.com)
 [Are.na](//www.are.na/kei-kreutler/forever-alpha)  
 
 
-## Resources ##
+## Biohacking Resources ##
 
 ### Guides ###
 [Open Wetware](http://openwetware.org/wiki/Main_Page)  
