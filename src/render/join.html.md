@@ -11,7 +11,6 @@ Over the next six months, [Schillerpalais project space](http://www.top-ev.de/sc
 [Schillerpalais](https://www.openstreetmap.org/node/3043349524)  
 Schillerpromenade 4. 12049 Berlin  
 Details, collaborators and activities TBA this week.  
-If you'd like to get involved, please feel welcome to get in touch with [@keikreutler](//twitter.com/keikreutler).
 
 ## Channels ##
 [Email](mailto:join@foreveralpha.club)  
