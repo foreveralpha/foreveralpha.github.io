@@ -3,21 +3,21 @@ layout: 'default'
 title: 'Join'
 ---
 
-Over the next six months, [Schillerpalais project space](http://www.top-ev.de/schillerpalais/) will host a series of Forever Alpha events focused on biohacking, autonomous care, and biometric identification. These events will lead into a crowdfunding campaign in the fall, which will support opening Schillerpalais as a publicly accessible biohacklab around the [kitchen as laboratory](http://www.top-ev.de/kitchenlab/) theme in September 2016.
+Over the next six months, [Schillerpalais project space](http://www.top-ev.de/schillerpalais/) will host a series of Forever Alpha events focused on biohacking, autonomous care, and biometric identification. These events will lead into a crowdfunding campaign in the fall, which will support a publicly accessible biohacklab in late 2016.
 
 
-### Forever Alpha Launch Party ###
-1900h 16 April 2016  
+### Forever Alpha Launch ###
+1830h 16 April 2016  
 [Schillerpalais](https://www.openstreetmap.org/node/3043349524)  
 Schillerpromenade 4. 12049 Berlin  
-Details, collaborators and activities TBA  
+Details, collaborators and activities TBA this week.  
 If you'd like to get involved, please feel welcome to get in touch with [@keikreutler](//twitter.com/keikreutler).
 
 ## Channels ##
 [Email](mailto:join@foreveralpha.club)  
 [Twitter](//twitter.com/@foreveralphalab)  
 [Github](//github.com/foreveralpha)  
-[Slack](//foreveralpha.slack.com)  
+[Meetup.com](//www.meetup.com/Forever-Alpha­/)  
 [Are.na](//www.are.na/kei-kreutler/forever-alpha)  
 
 
