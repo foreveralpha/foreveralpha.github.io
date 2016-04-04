@@ -10,7 +10,7 @@ Over the next six months, [Schillerpalais project space](http://www.top-ev.de/sc
 1830h 16 April 2016  
 [Schillerpalais](https://www.openstreetmap.org/node/3043349524)  
 Schillerpromenade 4. 12049 Berlin  
-Join us for night of biohacking-inspired happenings and presentations. This will be the first in a series of events to bring together the DIY Bio-interested community and build momentum for a public biohackspace here in Berlin.  
+Join us for night of biohacking-inspired happenings and presentations. This will be the first in a series of events to bring together the DIY Bio-interested community here in Berlin.  
 [View programme](/events/001)
 
 
