@@ -6,7 +6,7 @@ title: 'Join'
 Over the next six months, [Schillerpalais project space](http://www.top-ev.de/schillerpalais/) will host a series of Forever Alpha events focused on biohacking, autonomous care, and biometric identification. These events will support opening a public biohacklab in late 2016.
 
 
-### First Forever Alpha Social ###
+### [First Forever Alpha Social](/events/001) ###
 1830h 16 April 2016  
 [Schillerpalais](https://www.openstreetmap.org/node/3043349524)  
 Schillerpromenade 4. 12049 Berlin  

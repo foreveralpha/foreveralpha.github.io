@@ -70,13 +70,16 @@ p {
 	font-weight: 300;
 }
 
-a {
+a, a:visited {
 	color: #FFF;
-	font-weight: 500;
 	font-weight: bold;
-	&:hover {
+	&:hover, &:active, &:focus {
 		color: #943a13;
 	}
+}
+
+.events a {
+	color: #00ffff;
 }
 
 .gradient{
