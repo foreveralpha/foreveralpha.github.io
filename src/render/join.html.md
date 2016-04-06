@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Join'
 ---
 
-Over the next six months, [Schillerpalais project space](http://www.top-ev.de/schillerpalais/) will host a series of Forever Alpha events focused on [biohacking](https://en.wikipedia.org/wiki/Do-it-yourself_biology), autonomous care, and issues around biometric identification. These events will support opening a public biohacklab in late 2016.
+Forever Alpha is an Experiential Platform for [biohacking](https://en.wikipedia.org/wiki/Do-it-yourself_biology) and P2P learning. Over the next six months, [Schillerpalais project space](http://www.top-ev.de/schillerpalais/) will host a series of Forever Alpha events focused on autonomous care and issues around biometric identification, which will support opening a public biohacklab in late 2016.
 
 
 ### [First Forever Alpha Social](/events/001) ###
