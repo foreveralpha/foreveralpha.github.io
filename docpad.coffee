@@ -39,8 +39,7 @@ docpadConfig = {
 
 			# Styles
 			styles: [
-				"//fonts.googleapis.com/css?family=Poppins:400,700,600,500"
-				"//fonts.googleapis.com/css?family=Dosis:400,500,600,700,800,300"
+				"//fonts.googleapis.com/css?family=Open+Sans:400,700,300"
 				"/styles/twitter-bootstrap.css"
 				"/styles/style.css"
 			]

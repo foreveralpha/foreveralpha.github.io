@@ -48,7 +48,9 @@
 	<div id="the-fade" class="gradient">
 	</div>
 	<div>
-		<img id="logo" class="pull-right" src="/images/foreveralpha.png">
+		<a href="/join">
+			<img id="logo" class="pull-right" src="/images/foreveralpha.png">
+		</a>
 	</div>
 
 	<!-- Content -->
