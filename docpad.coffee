@@ -23,7 +23,7 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				 Forever Alpha is an Experiential Platform for biohacking and P2P learning.
+				Forever Alpha is an Experiential Platform for biohacking and P2P learning.
 				"""
 
 			# The website keywords (for SEO) separated by commas
