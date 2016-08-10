@@ -5,6 +5,13 @@ title: 'Join'
 
 Forever Alpha is an Experiential Platform for [biohacking](https://en.wikipedia.org/wiki/Do-it-yourself_biology) and P2P learning. Over the next six months, [Schillerpalais project space](http://www.top-ev.de/schillerpalais/) will host a series of Forever Alpha events focused on autonomous care and issues around biometric identification, which will support opening a public biohacklab in late 2016.
 
+### [Machine Copy: A PCR Workshop](/events/003) ###
+10h-19h 12 August and 9h-19h 13 August 2016  
+[Schillerpalais](https://www.openstreetmap.org/node/3043349524)  
+Schillerpromenade 4. 12049 Berlin  
+A workshop on DIY machinery for biolabs.  
+[View programme](/events/003)
+
 
 ### [First Forever Alpha Social](/events/001) ###
 1830h 16 April 2016  
