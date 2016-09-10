@@ -12,15 +12,6 @@ Schillerpromenade 4. 12049 Berlin
 A workshop on DIY machinery for biolabs.  
 [View programme](/events/003)
 
-
-### [First Forever Alpha Social](/events/001) ###
-1830h 16 April 2016  
-[Schillerpalais](https://www.openstreetmap.org/node/3043349524)  
-Schillerpromenade 4. 12049 Berlin  
-Join us for the inaugural night of biohacking-inspired happenings and presentations.  
-[View programme](/events/001)
-
-
 ## Channels ##
 [Email](mailto:join@foreveralpha.club)  
 [Twitter](//twitter.com/foreveralphalab)  
@@ -29,10 +20,7 @@ Join us for the inaugural night of biohacking-inspired happenings and presentati
 [Facebook](https://www.facebook.com/schillerpalais)   
 [Are.na](//www.are.na/kei-kreutler/forever-alpha)  
 
-
-## Biohacking Resources ##
-
-### Guides and Communites ###
+### Guides and Communities ###
 [Open Wetware](http://openwetware.org/wiki/Main_Page)  
 [Open Wetlab](http://waag.org/en/lab/open-wetlab)  
 [Biohack Academy](http://biohackacademy.github.io/)  
@@ -41,7 +29,6 @@ Join us for the inaugural night of biohacking-inspired happenings and presentati
 [Hackuarium Community Wiki](http://wiki.hackuarium.ch/w/Main_Page)
 
 ### Projects ###
-
 [Biohackables Open Source Tools](http://biohackables.org/open-source-tools/)  
 [Algae Biofuel](http://biohackables.org/project/a-bio/)  
 [Pulse Sensor with Processing library](http://biohackables.org/project/pulse-sensor/)  
@@ -50,5 +37,7 @@ Join us for the inaugural night of biohacking-inspired happenings and presentati
 [Gaudi Labs: Open Source Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)  
 [Smartphone Spectrometer](https://publiclab.org/wiki/smartphone-spectrometer)  
 [DIY Microscopy](http://hackteria.org/wiki/index.php/DIY_microscopy)  
+[Nudge](http://aliciafernandez.co.uk/NUDGE) by Alícia Fernàndez  
+[Sunshine Faces](http://aliciafernandez.co.uk/SUNSHINE-FACES) by Alícia Fernàndez
 
 Suggest additional resources on the [Github wiki](https://github.com/foreveralpha/resources/wiki)
