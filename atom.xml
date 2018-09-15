@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Forever Alpha</title>
+	<link href="http://foreveralpha.club/atom.xml" rel="self"/>
+	<link href="http://foreveralpha.club"/>
+	<updated>2018-09-15T18:33:34.719Z</updated>
+	<id>http://foreveralpha.club</id>
+	<author>
+		<name>Forever Alpha</name>
+		<email>join@foreveralpha.club</email>
+	</author>
+
+	
+</feed>
